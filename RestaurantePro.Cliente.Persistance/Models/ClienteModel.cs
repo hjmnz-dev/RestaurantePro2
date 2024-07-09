@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RestaurantePro.Cliente.Persistance.Models
 {
-    internal class ClienteModel
+    public class ClienteModel
     {
     }
 }
